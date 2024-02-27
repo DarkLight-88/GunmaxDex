@@ -24,6 +24,6 @@ async def hello(ctx):
   await ctx.send("Hello!")
 
 
-GunmaxDex.run("MTE3MjYxNDgwOTcxMjMzMjgwMQ.GjE628.vRWn81L5yylVnz0mjDHgNPWjbM3iZ8Ca7jOj-s")
+GunmaxDex.run("")
 
 
